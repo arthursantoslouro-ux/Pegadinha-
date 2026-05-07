@@ -4,7 +4,7 @@ echo "instalando o necessario"
 apt install curl > /dev/null 2>&1
 apt install wget > /dev/null 2>&1
 apt install chafa > /dev/null 2>&1
-
+apt install figlet mpv > /dev/null 2>&1
 
 textopm=""
 
